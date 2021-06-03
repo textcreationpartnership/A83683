@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Commons assembled in Parliament; that the ayd and assistance of the Lord Generall, Lord Fairfax, and Sir William Waller, shall especially and respectively be recommended to the committee of the militia in London; and who so shall do any thing herein, it shall be taken as an acceptable service. With an order enabling the majors, or other chief officers of severall cities, and towns corporate, within the counties of Kent, Sussex, Surrey, and Hampshire, to receive the severall sums of money, horse, or plate, already subscribed or to be subscribed. Also, another order concerning collectors. Ordered by the Commons assembled in Parl. That this declaration and order be forthwith printed and published. H. Elsynge. Cler.Parl.D.Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83683</idno><idno type="EEBO-CITATION">99860218</idno>
+  <idno type="VID">155333</idno>
+  <idno type="EEBO-PROQUEST">2240868458</idno>
+  
+            <idno type="STC">Wing E2563</idno>
+            <idno type="STC">Thomason E61_2</idno>
+            <idno type="STC">ESTC R1756</idno>
+            <idno type="PROQUEST">99860218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860218e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E61[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Commons assembled in Parliament; that the ayd and assistance of the Lord Generall, Lord Fairfax, and Sir William Waller, shall especially and respectively be recommended to the committee of the militia in London; and who so shall do any thing herein, it shall be taken as an acceptable service. With an order enabling the majors, or other chief officers of severall cities, and towns corporate, within the counties of Kent, Sussex, Surrey, and Hampshire, to receive the severall sums of money, horse, or plate, already subscribed or to be subscribed. Also, another order concerning collectors. Ordered by the Commons assembled in Parl. That this declaration and order be forthwith printed and published. H. Elsynge. Cler.Parl.D.Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 18. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Waller, William, --  Sir, 1597?-1668.</term>
+               <term type="personal_name">Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155333:1"/>
+            <p> A DECLARATION OF The <hi>COMMONS</hi> assembled in PARLIAMENT; That the Ayd and Assistance OF The Lord Generall, Lord FAIRFAX, and Sir WILLIAM WALLER, Shall especially and respectively be recommended to the Committee of the <hi>Militia</hi> in <hi>London;</hi> and who so shall do any thing herein, it shall be taken as an Acceptable service.</p>
+            <p>With an Order enabling the Majors, or other chief Officers of severall Cities, and Towns Corporate, within the counties of <hi>Kent, Sussex, Surrey,</hi> and <hi>Hampshire,</hi> to receive the severall sums of Mo<g ref="char:EOLhyphen"/>ney, Horse, or Plate, already subscribed, or to be subscribed.</p>
+            <p>Also, another Order concerning Collectors.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parl. That this Declaration and Order be forthwith printed and pub<g ref="char:EOLhyphen"/>lished:</hi> H. Elsynge, Cler. Parl. D. Com.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands.</hi> July 18. 1643.</p>
+            <pb facs="tcp:155333:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:155333:2"/>
+            <head>A DECLARATION OF The Commons assembled in Parliament, That the Aid and Assistance of the Lord Generall, Lord <hi>Fairfax,</hi> and Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> &amp;c.</head>
+            <head type="sub">
+               <hi>Die Sabbathi,</hi> 15 <hi>Julii,</hi> 1643.</head>
+            <p>IT is this day Ordered upon the que<g ref="char:EOLhyphen"/>stion, by the Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, That the Aid and As<g ref="char:EOLhyphen"/>sistance of my Lord Generall, Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and my Lord <hi>Fairfax,</hi> shall be especially and respectively re<g ref="char:EOLhyphen"/>commended
+<pb n="4" facs="tcp:155333:3"/> to the Committee of the Militia in <hi>London;</hi> And the House doth declare, that it is and shalbe held an acceptable service in any Man that will give any Assistance in Men, Moneys, Horse, or Ammunition, to my Lord Generall, Sir <hi>William Waller,</hi> my Lord <hi>Fairfax,</hi> or either of them respectively; And this House doth ingage the Pub<g ref="char:EOLhyphen"/>lique Faith for re-payment; And the House doth further declare, That it shall be held an Acceptable service in all such as have, or shall incourage o<g ref="char:EOLhyphen"/>thers to a cheerfull assistance to the per<g ref="char:EOLhyphen"/>sons aforesaid, or any of them.</p>
+            <p>And it is further Ordered, That the respective Majors, or other chief Offi<g ref="char:EOLhyphen"/>cers of the severall Cities, and Towns corporate, within the counties of <hi>Kent,</hi>
+               <pb n="5" facs="tcp:155333:3"/> and <hi>Sussex,</hi> and <hi>Hampshire,</hi> and <hi>Surrey,</hi> shall have power to receive the severall sums of Money, Plate, and Horses, al<g ref="char:EOLhyphen"/>ready subscribed, or hereafter to be sub<g ref="char:EOLhyphen"/>scribed as abovesaid; and to apprize the said Horses, and to give Acquittances and Receipts for the same, which Re<g ref="char:EOLhyphen"/>ceipts shall be presented to the Treasu<g ref="char:EOLhyphen"/>rers at <hi>Guild-Hall, London,</hi> to be by the said Treasurers received and entred, in as full and beneficiall a manner, as if the severall Subscribers had actually paid in the severall sums subscribed, unto the said Treasurers at <hi>Guild-Hall, London,</hi> whereby the severall Contributors may have the security of the Publique Faith for their re-payment, as was upon the former Propositions for the Subscripti<g ref="char:EOLhyphen"/>ons of Money, Horse, and Plate, &amp;c. The which Money, Plate, and Horse,
+<pb n="6" facs="tcp:155333:4"/> the said Majors shall discharge them<g ref="char:EOLhyphen"/>selves of, by Order from His Excellen<g ref="char:EOLhyphen"/>cie, my Lord <hi>Fairfax,</hi> or Sir <hi>William Waller,</hi> or either of them, according to their severall Subscriptions, and the in<g ref="char:EOLhyphen"/>tents of the Subscribers therein.</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl▪ D. Com.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>
+               <hi>Die Jovis,</hi> 13. <hi>Julii.</hi> 1643.</head>
+            <p>IT is this day Ordred by the House of Com<g ref="char:EOLhyphen"/>mons, That all and every Collector, Recei<g ref="char:EOLhyphen"/>vor, or other persons (unto whose hands any moneys, Plate, or other goods are appointed to be paid, sold, or disposed of by any Act or Ordinance of Parliament) shall pay and deli<g ref="char:EOLhyphen"/>ver the same unto the severall and respective Treasurers, Authorised by the severall and re<g ref="char:EOLhyphen"/>spective Acts and Ordinances of Parliament to receive the same.</p>
+            <pb n="7" facs="tcp:155333:4"/>
+            <p> And if any such Collector, Receivor, or other person, shall otherwise dispose, pay, or imploy the same, that then he or they shall be liable not onely to make payment of such moneys so by him or them received, and not paid unto the Treasurers authorised to receive the same as aforesaid; but also to such fur<g ref="char:EOLhyphen"/>ther punishment as this House shall think fit to inflict upon them, for his or their neglect and contempt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>LEt this Order be forthwith printed and published, That all persons may take notice thereof.</p>
+            <closer>
+               <signed>Hen: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
